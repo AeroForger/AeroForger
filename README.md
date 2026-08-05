@@ -1,34 +1,110 @@
-# Hi there, I'm AeroForger 👋
+<table>
+<tr>
+<td valign="top" width="65%">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Forged+from+the+cinders;Building+for+the+future;Clean+code.+Real+systems." />
-</p>
+<pre>
 
----
+                                                                                                    
+           ↱                                                                                        
+            ↲»↲  ↱»                                                                                 
+         »»   →»↕ ↕↲⇩                                                           ,↔   |↔←            
+        ⇩  »»»» ↲»⇨↔↱↕                                                        ↔↕. <↓↲↕    ↕↱        
+        ~»»»⇨↱»»»↱↲↱⇧⇨↲<                                                   ↑↕↕:~←↱↱  ~←↓↲↲          
+        , ↱»»↲↲↱↲↕↱<↔↔⇩⇨←                                                ⇩↱\^→⇧←↓←↱↱↕←⇩ ~»↲→        
+        ←↲»↲↑↱↕↲↱→↔↓↔↱↱↱⇩↕⇧                                            ↑↕⇦→↕←|⇧|↓↔↲←↑↑⇧←↓|          
+         .↱↲↲↱↔↑↓↲↕↔<↓↕↑↓↔|/                                        .↱↔↕↕↕>↔↕↑/~-↑↕↔|⇧↓.↲↱↲         
+        ↓↲↔,↱↔↑↔↓⇨<↓↱↱⇦/|←↓/↕                                     ^↑⇩→↔→↕↱↑~→⇦⇦⇨↓⇩←⇧\⇨↕↲↱↲          
+         ↲↱↱↕↱↕↑⇨↑↱↔⇨⇩←←↑>⇨⇧←↑/ ↑                                ↕>↑\↓←\↑→↕↓⇦⇧:|⇦|↓⇩←↔↑             
+            ↔↓↕↓←←→⇩<⇩→↓⇩⇦⇩⇨⇩←//>↱↱                         ↱. \↑⇨⇦←\←⇨→\⇨⇦←→↔↓⇨←⇧⇨↔⇦↑↲↲↱↕^         
+         ↓↔↓↕↔↑↔⇨→→↑↔←⇩⇩⇩⇩⇦\||<\\↱↱↱         ↲↲,          ↱↱↕>/>⇦⇦⇩←←⇦⇦⇨←⇦/>→←⇨→←←↓↔↔↕↲↔            
+          <↱↔↑↓←/\⇨⇦⇩⇨|⇧←⇦⇦⇦⇩⇦⇨//<\↱        >→⇨\←        ↔↱>\\/\/|⇦⇦⇩\⇧⇦↔↑↓↕↓↑←⇦⇦⇩→↔↓↱↲↲↓⇩⇧         
+          /↔↕↓↑⇨\⇩⇩\||⇧⇩⇩⇩|⇩⇧/⇦/\/|⇧⇨       ←|/↱↕↔       /\>\\/>\⇦|⇩⇩⇨⇦⇦|⇦|⇨|⇧⇨→⇦→↑↕↕↱↱↱⇨           
+            ↱↱↕↔↱⇨←⇧⇩|⇧⇧⇧⇨⇧\>⇧⇦\\>\>\<     ↕↲↱/<←|↲     ⇩|^///⇩⇧|⇧|⇦⇩⇦⇦⇦⇦⇧||>>>⇦←⇧←↔↕↕↔↑            
+            ↔↕↑↔⇩|⇩↕↔→|⇧⇧|⇧←⇩⇩|/\~>/⇧↱↱↲  ↲↲↱↱↕\\^↱↱ ↲↲⇩|</⇧/|/>>\⇩⇩⇩←⇨⇦⇧←⇨↓↔↔|↑⇨→→↕↔↕↑             
+            >↱↱↲↕⇨⇨←⇦⇧⇧⇩⇦⇧|⇩|\/⇩//\/<→⇨↕↲↕↱↲↲↔⇨|⇦⇩⇩↲↕↲⇦⇩⇩\|||>>\⇧\⇩⇧⇨⇨⇦←↓↱↱⇨⇦⇨⇩→↑←←⇨/               
+             »↱↱↱↱↕←↑→←⇩⇩<\⇧⇧|⇧\\\⇧\\⇧⇩↓|↱↲↲↔←⇨⇦←⇩↱↱⇦↑⇨|⇧⇧⇧|//>>\\⇧→→⇨|↓↔↱↓⇩↕↕↲⇨↓→↑↔↔               
+              , ↱↑↓↕↑⇨|⇨⇩⇦←⇦⇧\|\|⇩\|||⇦⇧↑↱↲↕⇧⇩⇦⇧>⇦↕↲↑|→←⇦⇩⇦⇧⇧⇧⇩⇧⇧|←|↑↔↔↓↕↓↱↱↔↔→↓↕↕↱                 
+              →↔↕↱↔↔|⇨←↓↓⇦→⇦⇧||\|⇩\⇩⇦↓⇩↕↑↱↲↕⇦⇩⇩⇧⇧\»↲↔⇧↓↑⇦⇨⇦⇦⇧⇦⇦|→←←→↔↑↔↔↕↔»↓↓↱ ^↑→↕                 
+               >↑↔←←↓↑↔⇨←→↑↓↑⇨⇩⇩↔⇨←⇨⇨↓↑↱↔↲↕↔⇨/⇧⇧⇩\↲↱↱↑↔↑↑↑⇨⇨↓→↔↓→←→↓→↔↔↓→↕↲↕↱↕↑↕                    
+                 <↑→↔↕↓↓⇦↑→↑↓→↓↓⇨↕↓↔↓↕↱↲↱↲→↑↓|\|⇧<↲↱↕↱↱↕↲↔↓↔↔↕↕↔↓↓↑↔←↕↔↓↱↱↕↲↕↱↱↱↓                   
+                   →\↕↱↕↱↔↔↕⇨↑↱↓↔↕→↕↱↲↲↱↲↲↓↱↕⇩⇧⇧⇩/»↲↲↲↲↲↲↱↱↱↱⇨↔↔⇨↑→←↱↓↱»↕↱↔↓↕                       
+                      /,↕⇦↓↕↕↱↲↲↲↲↲↱↲↲↲↲↱↲↲←↔⇧⇧|⇧⇩»↲↲↲»»»»»↲↲↕↕↱↲↓↱↔↕»↱↲»↱↱                         
+                           ↱↲↲↲↲↲↲↲↲↲↲↲↲↲⇦↔↓/⇩|⇩\\\↲↲|  »  »↲↱↲↱⇩↔↱\-↑↑↓                            
+                                      .<»↑/⇦|⇩|⇩⇧⇧↑↲↱                                               
+                                        ↲↲←→⇩⇩⇧⇨⇩⇦→↲↕↱\»                                            
+                                     ↕/↱↑↲⇦⇦⇧⇧⇩⇦⇦⇩↔⇨⇩»↱↱↲»↱↱,                                       
+                                ←↲>↔↱↱↲↕⇦|↱⇧⇧⇧\⇧⇧⇧⇦⇨⇨→»↲»↲↱↱»↲»↲~                                   
+                          ,→<↑→↕↱↲↱↔↕↲↕←⇧|⇦⇧|⇧⇩⇩⇩⇩⇦⇨⇦⇨↱↲»↲↲»↕↔↲»»»↲»                                
+                       |⇩↕↕↱↕↲↕↲↔↲↲↱↓↕↓←⇨⇦⇧⇦⇩⇦⇩⇧⇩⇩⇨⇨⇩⇧→⇨↲»↲»↲↲»/↱»»»»↲↱                             
+                      ↱↕↔⇨→↑\↑↓↲↱↓←↱↔↓⇦⇦⇨⇦⇧⇩⇩→←⇨⇨→⇨⇩⇨⇩⇦↕↱»↲↲↲»↕↲»↲↱↲»↲↲↲»                           
+                      ←⇦⇨⇧↑↱↕↔↱↓↓↔↱↱↱↓←←←→⇦⇩⇦→→⇩←↔⇧→⇩←←↓↑↲»↕↲»↲»»»»↲↓↲↲»↲⇦                          
+                      ⇧⇦↔↔↑⇨→↑→↓↱↕↲↱↑→⇦↑⇨⇩|⇨↑↓→↓⇦↱»↔↔↑↱↔↱↲↱↲↲⇧↱»↲↲»↲»↕⇨←↑⇨↱                         
+                       ,^⇨←←⇨↓↕↕↱→↕→←↑→←⇨⇩⇨⇦↔↓↱↲⇨↔↱⇨⇨↑»↕↓↔↲↱↲↱↲↲↲↔↱↕↱↓↔↑←~                          
+                       ^⇩⇨⇨→↑⇨→↓↑←←⇩→↓↑⇨⇨⇨→↔↓↓»↲↕↕»»↓↓↲»↱→↓»↕→↔↲↔↱⇦↕↓↔↑⇨                            
+                         ↔⇨⇩\←→←⇧↑↑↓↔↓→←⇦↓↱↱↲↕»»↔↕↕↲»↕↕»»↑↑↕↑↱↓↕↕↕↑←↓→↔↓                            
+                          ⇧⇦→|⇧⇩|⇨↑↑↔→→→←↱↱»↲↱»↲↓→↓↲⇦↱↔»»↕→↑↓↕↔↓↔↔↔                                 
+                           -⇨⇨⇧⇦⇦⇨→↲⇦⇨⇨↔↔↱»»↱↱↲↲↓↑↔↲↓↔↕↕»»↔⇦→↓↔↑                                    
+                            ,⇩⇧←⇨⇧⇧⇧⇦⇩⇩ ↱↲↲↲↓↕»»↔←↑↲↲↑↓↔»»↓↑↓                                       
+                                 ⇦⇩⇩⇦⇧ ↲↕ »↑↱↱↲»↑⇦⇨↱↕↔↓→↕»↱↔                                        
+                                  ⇩⇦⇧ .   ↕↑←↕↲↑⇦→←\↔←~↑                                            
+                                           ~:   »|                                                  
+                                                                                                    
+  
+</pre>
 
-###  About Me
+</td>
 
-I'm a developer from Georgia focused on building useful, efficient tools — always aiming to keep things simple, clean, and free for everyone.
+<td valign="top">
 
----
+<pre>
+AeroForger@github
+-----------------
 
-###  Skills
+OS:
+  Linux
 
-**Languages & Core Tech**
-- `C#` • `JavaScript` • `Python` • `C++ / C`
+Shell:
+  Bash
 
-**Tools & Environment**
-- `Git` • `Docker` • `VS Code` • `Linux`
+Editor:
+  VS Code
 
----
+Location:
+  Georgia 🇬🇪
 
-###  Stats
+Role:
+  Software Developer
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+Focus:
+  ├─ System Tools
+  ├─ Automation
+  ├─ Open Source
+  └─ Performance
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+Languages:
+  ├─ C#
+  ├─ Python
+  ├─ JavaScript
+  ├─ HTML/CSS
+  └─ Arduino
+
+Environment:
+  ├─ Linux
+  ├─ Docker
+  ├─ Git
+  └─ Bash
+
+Projects:
+  ├─ DistroHop
+  ├─ VoiceForge
+  ├─ NixOS Tools
+  └─ Future Projects
+
+Status:
+  └─ Forging new software...
+
+</pre>
+
+</td>
+</tr>
+</table>
