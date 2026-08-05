@@ -77,7 +77,7 @@ Role:
 
 Focus:
   ├─ System Tools
-  ├─ Automation
+  ├─ Quality
   ├─ Open Source
   └─ Performance
 
@@ -95,9 +95,9 @@ Environment:
   └─ Bash
 
 Projects:
-  ├─ DistroHop
-  ├─ VoiceForge
-  ├─ NixOS Tools
+  ├─ AeroHop
+  ├─ ForgeClick
+  ├─ NixForge
   └─ Future Projects
 
 Status:
