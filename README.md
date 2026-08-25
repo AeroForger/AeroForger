@@ -78,7 +78,8 @@ Languages:
   ├─ Python
   ├─ JavaScript
   ├─ HTML/CSS
-  └─ Arduino C++
+  ├─ Lua
+  └─ C++
 
 Environment:
   ├─ Linux
