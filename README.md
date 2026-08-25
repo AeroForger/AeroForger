@@ -59,10 +59,10 @@ OS:
   Linux
 
 Shell:
-  Bash
+  Fish
 
 Editor:
-  VS Code
+  VS Code / Vim
 
 Location:
   Georgia 🇬🇪
