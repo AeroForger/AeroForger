@@ -93,7 +93,6 @@ Projects:
   ├─ ForgeClick
   ├─ NixForge
   └─ Future Projects
-
 </pre>
 
 </td>
