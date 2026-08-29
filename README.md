@@ -89,9 +89,9 @@ Environment:
 
   
 Projects:
+  ├─ ForgeLang
   ├─ AeroHop
-  ├─ ForgeClick
-  ├─ NixForge
+  ├─ ForgeWire
   └─ Future Projects
 </pre>
 
