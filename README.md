@@ -89,7 +89,7 @@ Environment:
 
   
 Projects:
-  ├─ ForgeLang
+  ├─ Sydrogen
   ├─ AeroHop
   ├─ ForgeWire
   └─ Future Projects
