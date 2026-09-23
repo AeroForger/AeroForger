@@ -10,11 +10,23 @@ I build compilers, system tools, native applications, and smaller projects to le
 
 ---
 
-## Languages
+## Tech Stack
 
-[![Languages](https://skillicons.dev/icons?i=cpp,rust,python,cs,lua,html,css,bash,mysql,js)](https://skillicons.dev)
+### Main:
+
+[![Languages](https://skillicons.dev/icons?i=cpp,rust,python,cs,lua,)](https://skillicons.dev)
 
 ### **Also:** x86-64 Assembly
+
+### Other:
+
+[![Languages](https://skillicons.dev/icons?i=html,css,bash,mysql,js)](https://skillicons.dev)
+
+### Tools & DevOps
+
+[![Tools](https://skillicons.dev/icons?i=linux,git,cmake,docker,vim,vscode)](https://skillicons.dev)
+
+### **Also:** Clang · Cargo · NASM · GCC
 
 ## Main Projects
 
@@ -26,18 +38,12 @@ A compiled programming language with C-style syntax, targeting Linux x86-64.
 
 My earlier programming language and compiler project. A lot of what I learned from Sydrogen influenced AeroFyl.
 
-## Other Projects
+### Other Projects
 
-I also work on Linux tools, Arduino projects, networking, graphics, developer tools, and desktop applications.
-
-## Environment
-
-[![Tools](https://skillicons.dev/icons?i=linux,git,cmake,docker,vim,vscode)](https://skillicons.dev)
-
-### **Also:** Clang · Cargo · NASM · GCC
+**I also work on Linux tools, Arduino projects, networking, graphics, developer tools, and desktop applications.**
 
 ## Project Requests
 
 Have an application, script, or other programming project you want built?
 
-https://request-site-tan.vercel.app/
+[Request-Site is just for you](https://request-site-tan.vercel.app/)
