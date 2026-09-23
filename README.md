@@ -12,9 +12,9 @@ I build compilers, system tools, native applications, and smaller projects to le
 
 ## Languages
 
-Main: C++ · Rust · Python · C# · Lua · x86-64 Assembly
+[![Languages](https://skillicons.dev/icons?i=cpp,rust,python,cs,lua,html,css,bash,mysql,js)](https://skillicons.dev)
 
-Extra: HTML/CSS · Bash · SQL · JavaScript
+### **Also:** x86-64 Assembly
 
 ## Main Projects
 
@@ -32,7 +32,9 @@ I also work on Linux tools, Arduino projects, networking, graphics, developer to
 
 ## Environment
 
-Linux · Git · GCC · Clang · Cargo · CMake · Docker · NASM · Vim · VS Code
+[![Tools](https://skillicons.dev/icons?i=linux,git,cmake,docker,vim,vscode)](https://skillicons.dev)
+
+### **Also:** Clang · Cargo · NASM · GCC
 
 ## Project Requests
 
