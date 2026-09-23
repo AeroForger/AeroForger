@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # AeroForger
 
 I am a programmer interested in systems programming, compilers, Linux, and low-level software.
@@ -12,13 +12,13 @@ I build compilers, system tools, native applications, and smaller projects to le
 
 ## Tech Stack
 
-### Main:
+### Main Languages
 
-[![Languages](https://skillicons.dev/icons?i=cpp,rust,python,cs,lua,)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cpp,rust,python,cs,lua)](https://skillicons.dev)
 
-### **Also:** x86-64 Assembly
+**Also:** x86-64 Assembly
 
-### Other:
+### Other Languages
 
 [![Languages](https://skillicons.dev/icons?i=html,css,bash,mysql,js)](https://skillicons.dev)
 
@@ -26,24 +26,24 @@ I build compilers, system tools, native applications, and smaller projects to le
 
 [![Tools](https://skillicons.dev/icons?i=linux,git,cmake,docker,vim,vscode)](https://skillicons.dev)
 
-### **Also:** Clang · Cargo · NASM · GCC
+**Also:** Clang · Cargo · NASM · GCC
 
 ## Main Projects
 
-### AeroFyl
+### [AeroFyl](https://github.com/AeroForger/AeroFyl)
 
 A compiled programming language with C-style syntax, targeting Linux x86-64.
-  
-### Sydrogen
+
+### [Sydrogen](https://github.com/AeroForger/Sydrogen)
 
 My earlier programming language and compiler project. A lot of what I learned from Sydrogen influenced AeroFyl.
 
 ### Other Projects
 
-**I also work on Linux tools, Arduino projects, networking, graphics, developer tools, and desktop applications.**
+I also work on Linux tools, Arduino projects, networking, graphics, developer tools, and desktop applications.
 
 ## Project Requests
 
 Have an application, script, or other programming project you want built?
 
-[Request-Site is just for you](https://request-site-tan.vercel.app/)
+[Submit a project request](https://request-site-tan.vercel.app/)
